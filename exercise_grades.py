@@ -28,4 +28,4 @@ def grades():
         print("Regular")
     else:
         print("Insuficiente")
-grades()
+

@@ -24,4 +24,3 @@ def weekday():
     if not dia == "sabado" or dia == "domingo":
         print("Dia habil")
 
-weekday()
